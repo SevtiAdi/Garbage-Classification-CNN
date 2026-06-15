@@ -55,7 +55,7 @@ Framework yang digunakan:
 ```text
 Garbage-Classification-CNN/
 │
-├── Main.ipynb
+├── garbage_classification_cnn.ipynb
 ├── README.md
 │
 └── output/
@@ -128,5 +128,5 @@ pip install tensorflow numpy matplotlib scikit-learn
 3. Jalankan notebook
 
 ```bash
-jupyter notebook Main.ipynb
+jupyter notebook garbage_classification_cnn.ipynb
 ```
