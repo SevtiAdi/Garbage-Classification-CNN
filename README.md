@@ -1,6 +1,6 @@
-# 🗑️ Garbage Classification Using CNN
+# Garbage Classification Using CNN
 
-## 📌 Overview
+## Overview
 
 Proyek ini bertujuan untuk mengklasifikasikan jenis sampah menggunakan **Convolutional Neural Network (CNN)**. Model dilatih untuk mengenali beberapa kategori sampah sehingga dapat membantu proses pemilahan sampah secara otomatis dan mendukung sistem pengelolaan limbah yang lebih efisien.
 
